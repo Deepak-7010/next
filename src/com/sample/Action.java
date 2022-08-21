@@ -24,6 +24,7 @@ public class Action {
 		
 		a.findElement(By.xpath("//span[text()='SQL Certification']")).click();
 		
+		System.out.println("Deepak");
 		
 	}
 
